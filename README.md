@@ -1,4 +1,4 @@
-# 🇮🇳 India Data Analysis – Excel Project
+# India Data Analysis – Excel Project
 
 ## 📌 Project Overview
 This Excel project analyzes **India-related data** to identify patterns and trends across population, regions, and demographics.  
